@@ -8,12 +8,9 @@
    just an ordinary person who wants to know a lot about Programming.
 
   
-:diamond_shape_with_a_dot_inside:  **Socials**:
-  
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)[](https://instagram.com/die4kv) 
-![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)[](https://tiktok.com/@die4kv) 
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)[](https://youtube.com/@die4kv) 
-![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)[](mailto:adrynlkhfii@gmail.com) 
+:diamond_shape_with_a_dot_inside:  **Socials**:  
+    
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/die4kv ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adrynlkhfii@gmail.com) 
   
   
 :books:  **What I Learned:**                                
