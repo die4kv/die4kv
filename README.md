@@ -1,26 +1,47 @@
-### Hi there 👋
-  
-![banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlvdW96c2pvd29ra3V0aDIwcjJmaTFrYTFrazJvNGx3aDI3bnE2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rx8H5yTo36LLy/giphy.gif)
+<div align="center">
+  <img height="160" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3F6bzcxeWI2eW5rMDF6d245ODUza2M5ZnQ1MW85eHR1NmV0Zzc3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rx8H5yTo36LLy/giphy.gif"  />
+</div>
 
-   
-**Welcome to my Profile!**
+###
 
-   just an ordinary person who wants to know a lot about Programming.
+<div align="center">
+  <a href="https://instagram.com/die4kv" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="mailto:adrynlkhfii@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/die4kv" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
 
-  
-:diamond_shape_with_a_dot_inside:  **Socials**:  
-    
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/die4kv ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adrynlkhfii@gmail.com) 
-  
-  
-:books:  **What I Learned:**                                
-    
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,rust,docker,postgres,express&perline=3)    
+###
 
+<h3 align="center">Welcome fam!</h3>
 
-:computer:  **System & Tools:**  
+###
 
-    
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>  
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>  
-  
+<h5 align="center">just an ordinary person who wants to know a lot about Programming.</h5>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/die4kv /die4kv /output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/die4kv /die4kv /output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/die4kv /die4kv /output/pacman-contribution-graph.svg">
+</picture>
+
+###
