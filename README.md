@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋  
+
+
+![one piece](https://giphy.com/gifs/funimation-one-piece-super-4uMy0wqz6V1SM)  
+
 
 <!--
 **die4kv/die4kv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
