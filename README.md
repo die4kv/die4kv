@@ -8,7 +8,7 @@
    just an ordinary person who wants to know a lot about Programming.
 
   
-**Socials**:
+:diamond_shape_with_a_dot_inside:  **Socials**:
   
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)[](https://instagram.com/die4kv) 
 ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)[](https://tiktok.com/@die4kv) 
@@ -16,12 +16,12 @@
 ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)[](mailto:adrynlkhfii@gmail.com) 
   
   
-**What I Learned:**                                
+:books:  **What I Learned:**                                
     
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,rust,docker,postgres,express&perline=3)    
 
 
-**System & Tools:**  
+:computer:  **System & Tools:**  
 
     
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>  
