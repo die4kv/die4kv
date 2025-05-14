@@ -1,9 +1,13 @@
-## Hi there 👋  
+### Hi there 👋  
 
+![one piece](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlqMDNrb3cyajl4aDdwMjVqNDBkdmFleW1uY3ZmdXN4dmU4ZGE0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4uMy0wqz6V1SM/giphy.gif)
 
-![one piece](https://giphy.com/gifs/funimation-one-piece-super-4uMy0wqz6V1SM)  
+### Welcome to my Profile!  
 
+  
+   I'm just an ordinary human who wants to learn a lot about programming.  
 
+   
 <!--
 **die4kv/die4kv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
