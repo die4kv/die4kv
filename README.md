@@ -1,24 +1,30 @@
-### Hi there 👋  
-
-![one piece](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlqMDNrb3cyajl4aDdwMjVqNDBkdmFleW1uY3ZmdXN4dmU4ZGE0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4uMy0wqz6V1SM/giphy.gif)
-
-### Welcome to my Profile!  
-
+### Hi there 👋
   
-   I'm just an ordinary human who wants to learn a lot about programming.  
+![banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlvdW96c2pvd29ra3V0aDIwcjJmaTFrYTFrazJvNGx3aDI3bnE2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rx8H5yTo36LLy/giphy.gif)
 
    
-<!--
-**die4kv/die4kv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my Profile!**
 
-Here are some ideas to get you started:
+   just an ordinary person who wants to know a lot about Programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+**Socials**:
+  
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)[](https://instagram.com/die4kv) 
+![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)[](https://tiktok.com/@die4kv) 
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)[](https://youtube.com/@die4kv) 
+![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)[](mailto:adrynlkhfii@gmail.com) 
+  
+  
+**What I Learned:**                                
+    
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"/>    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>    
+
+
+**System & Tools:**  
+
+    
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>  
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>  
+  
