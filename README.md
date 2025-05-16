@@ -15,11 +15,13 @@
 
 ###
 
-<h3 align="center">Welcome fam!</h3>
+<h3 align="center"> Welcome fam! </h3>
 
 ###
 
-<h5 align="center">Just an ordinary person who wants to know a lot about Programming.</h5>
+<div align="center">
+<p3>Just an ordinary person who wants to know a lot about Programming.</p3>  
+</div>
 
 ###
 
