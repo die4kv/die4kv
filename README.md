@@ -35,5 +35,12 @@
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
 </div>
 
-###   
-   
+###    
+
+<div align="center">
+<p3>FYI: all projects are stuck, donate a little to fix it.</p3>
+</div>
+<div align="center">
+<a href="https://www.paypal.me/boyanbaeboo" target="_blank">    
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="20" alt="Paypal logo"  /></a>
+</div>
