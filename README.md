@@ -15,7 +15,7 @@
 
 ###
 
-<h3 align="center"> Welcome fam! </h3>
+<h3 align="center"> Welcome! </h3>
 
 ###
 
@@ -38,7 +38,7 @@
 ###    
 
 <div align="center">
-<p3>FYI: all projects are stuck, donate a little to fix it.</p3>
+<p3>FYI: all projects are stuck, donate a little to fix my pc.</p3>
 </div>
 <div align="center">
 <a href="https://www.paypal.me/boyanbaeboo" target="_blank">    
